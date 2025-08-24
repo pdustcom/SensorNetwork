@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 
 app = FastAPI(title="My Sensors API")
 
-API_KEY = "replace-me"
+API_KEY = "2771973ecf47e24a4154934d45dbc5c9"
 
 SENSORS = {
     "lab-1": {
